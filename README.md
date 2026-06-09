@@ -15,10 +15,10 @@ Busco evoluir através de projetos práticos, estudos contínuos e aplicação d
 
 ## 🧠 Habilidades
 
-![Python](https://img.shields.io/badge/Python-Básico-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-Iniciante-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Iniciante-black?style=for-the-badge&logo=github)
-![Lógica](https://img.shields.io/badge/Lógica_de_Programação-Básico-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-Intrmediário-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediário-black?style=for-the-badge&logo=github)
+![Lógica](https://img.shields.io/badge/Lógica_de_Programação-green?style=for-the-badge)
 
 ---
 
@@ -42,7 +42,11 @@ Busco evoluir através de projetos práticos, estudos contínuos e aplicação d
 
 ## 📂 Projetos
 
-🔹 Em desenvolvimento... (em breve aqui no GitHub)
+🔹 **Sistema de Gestão para Adoção de Animais**
+- Projeto acadêmico desenvolvido em Python.
+- Persistência de dados utilizando arquivos CSV.
+- Versionamento com Git e GitHub.
+- Repositório: https://github.com/isabellyrc/adocao-mais
 
 ---
 
