@@ -22,16 +22,6 @@ Tenho experiência com Python, Git e GitHub, aplicando conceitos de programaçã
 
 ---
 
-## 📚 Atualmente estudando
-
-* Python
-* Git e GitHub
-* Estruturas de Dados
-* Interface Humano-Computador (IHC)
-* Desenvolvimento de Software
-
----
-
 ## 🎯 Objetivos
 
 * Evoluir como desenvolvedor
