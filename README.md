@@ -1,61 +1,78 @@
-# 👋 Olá, eu sou Heitor!
+# 👋 Olá, eu sou Heitor Torres!
 
-🎓 Estudante de tecnologia em formação  
-💻 Em evolução na área de desenvolvimento de software  
-🚀 Focado em aprender, praticar e crescer na programação  
+🎓 Estudante de Sistemas de Informação na Cesar School
+💻 Interessado em Desenvolvimento de Software, Automação de Processos e Tecnologia
+🚀 Buscando evoluir por meio de projetos práticos, aprendizado contínuo e desafios reais
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de tecnologia, atualmente desenvolvendo minhas habilidades em programação e versionamento de código.  
-Busco evoluir através de projetos práticos, estudos contínuos e aplicação dos conceitos aprendidos na faculdade.
+Sou estudante de Sistemas de Informação e estou construindo minha experiência na área de tecnologia por meio de projetos acadêmicos, automação de processos e aprendizado contínuo.
+
+Tenho experiência com Python, Git e GitHub, aplicando conceitos de programação, versionamento de código e trabalho colaborativo em equipe. Meu objetivo é desenvolver soluções que gerem valor enquanto aprimoro minhas habilidades técnicas e profissionais.
 
 ---
 
-## 🧠 Habilidades
+## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-Intrmediário-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediário-black?style=for-the-badge&logo=github)
-![Lógica](https://img.shields.io/badge/Lógica_de_Programação-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Git](https://img.shields.io/badge/Git-Intermediário-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediário-black?style=for-the-badge\&logo=github)
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Python (estrutura e prática)
-- Git e GitHub (versionamento)
-- Lógica de programação
-- Interface e Experiência do Usuário (IHC)
+* Python
+* Git e GitHub
+* Estruturas de Dados
+* Interface Humano-Computador (IHC)
+* Desenvolvimento de Software
 
 ---
 
 ## 🎯 Objetivos
 
-- Evoluir como desenvolvedor
-- Criar projetos próprios
-- Conseguir minha primeira oportunidade na área
-- Desenvolver boas práticas de programação
+* Evoluir como desenvolvedor
+* Construir um portfólio sólido de projetos
+* Conquistar oportunidades de estágio e desenvolvimento profissional na área de tecnologia
+* Desenvolver boas práticas de programação e trabalho em equipe
 
 ---
 
 ## 📂 Projetos
 
-🔹 **Sistema de Gestão para Adoção de Animais**
-- Projeto acadêmico desenvolvido em Python.
-- Persistência de dados utilizando arquivos CSV.
-- Versionamento com Git e GitHub.
-- Repositório: https://github.com/isabellyrc/adocao-mais
+### 🐾 Sistema de Gestão para Adoção de Animais
+
+Projeto acadêmico desenvolvido em equipe utilizando Python para auxiliar o gerenciamento do processo de adoção de animais.
+
+**Funcionalidades**
+
+* Cadastro de animais
+* Cadastro de adotantes
+* Registro de adoções
+* Gerenciamento de tarefas
+* Persistência de dados em arquivos CSV
+
+**Minha contribuição**
+
+* Desenvolvimento da camada de persistência de dados
+* Implementação de leitura e escrita em arquivos CSV
+* Utilização de Git e GitHub com branches, commits e Pull Requests
+
+🔗 Repositório: https://github.com/isabellyrc/adocao-mais
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heitor-torres-dalbuquerque-0940b13b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/heitor-torres-dalbuquerque-0940b13b0)
 
 ---
 
-## 📊 Status
+## 📊 Estatísticas
 
-![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=haotd1987&show_icons=true&theme=dark)
+![Heitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=heitortorresdev\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heitortorresdev\&layout=compact\&theme=dark)
